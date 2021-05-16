@@ -442,3 +442,30 @@ C:\\Program Files (x86)\\Microsoft Office\\Office12\\winword.exe
 C:\\Program Files\\Microsoft Office\\Office12\\winword.exe
 C:\\Program Files\\Microsoft Office\\Office12\\winword.exe
 C:\\Windows\\System32\\wsl.exe
+C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe
+c:\\windows\\system32\\winrs.exe
+c:\\windows\\syswow64\\winrs.exe
+C:\\Windows\\System32\\IME\\SHARED\\IMEWDBLD.exe
+c:\\windows\\system32\\fhmanagew.exe
+C:\\Windows\\SysWOW64\\finger.exe
+C:\\Program Files (x86)\\Windows Kits\\10\\Debuggers\\x64\\adplus.exe
+C:\\Program Files (x86)\\Windows Kits\\10\\Debuggers\\x64\\remote.exe
+C:\\Windows\\system32\\pnputil.exe
+C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.11.2521.0_x64__8wekyb3d8bbwe\\AppInstaller.exe
+C:\\Windows\\Microsoft.NET\\Framework64\\v3.5\\DataSvcUtil.exe
+C:\\Windows\\System32\\dllhost.exe
+C:\\Windows\\SysWOW64\\dllhost.exe
+C:\\Windows\\System32\\wuauclt.exe
+C:\\Program Files\\Microsoft Silverlight\\5.1.50918.0\\coregen.exe
+C:\\Program Files (x86)\\Microsoft Silverlight\\5.1.50918.0\\coregen.exe
+C:\\Program Files (x86)\\Microsoft\\DefaultPack\\DefaultPack.EXE
+MpCmdRun.exe
+C:\\Windows\\System32\\xwizard.exe
+C:\\Windows\\SysWOW64\\xwizard.exe
+C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2008.9-0\\ConfigSecurityPolicy.exe
+ConfigSecurityPolicy.exe
+C:\\windows\\system32\\diantz.exe
+C:\\windows\\syswow64\\diantz.exe
+C:\\windows\\system32\\pktmon.exe
+C:\\Windows\\System32\\certreq.exe
+C:\\Windows\\SysWOW64\\certreq.exe
