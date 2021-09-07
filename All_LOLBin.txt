@@ -469,3 +469,16 @@ C:\\windows\\syswow64\\diantz.exe
 C:\\windows\\system32\\pktmon.exe
 C:\\Windows\\System32\\certreq.exe
 C:\\Windows\\SysWOW64\\certreq.exe
+C:\\Windows\\System32\\fsutil.exe
+C:\\Windows\\SysWOW64\\fsutil.exe
+C:\\Windows\\System32\\spool\\tools\\PrintBrm.exe
+C:\\Program Files\\Windows Defender\\Offline\\OfflineScannerShell.exe
+C:\\Windows\\System32\\WorkFolders.exe
+C:\\Windows\\System32\\cmdl32.exe
+C:\\Windows\\SysWOW64\\cmdl32.exe
+C:\\Windows\\System32\\SettingSyncHost.exe
+C:\\Windows\\SysWOW64\\SettingSyncHost.exe
+C:\\Windows\\System32\\DeviceCredentialDeployment.exe
+C:\\Windows\\System32\\DeviceCredentialDeployment.exe
+c:\\windows\\system32\\finger.exe
+c:\\windows\\system32\\fhmanagew.exe
