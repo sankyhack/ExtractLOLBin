@@ -17,6 +17,13 @@ This script is written to exctract LOLBin (Living Off The Land Binaries and Scri
 2) extrac details from event id 1 & 3 from ( Sysmon logs )
 .\Extract-LOLBin.ps1 -LogName sysmon -Path_To_LOLBin .\All_LOLBin.txt
 
+Next two example will fetch details from Offline EVTX log file.
+3) extract details from offline Security EVTX file ( Complete EVTX export will work too ) 
+.\Extract-LOLBin.ps1 -LogName securityfile -Path_To_LOLBin .\All_LOLBin.txt -Path_To_Logfile .\lolevtx.evtx
+
+4) extract details from offline Sysmon EVTX file ( Complete EVTX export will work too ) 
+.\Extract-LOLBin.ps1 -LogName sysmonfile -Path_To_LOLBin .\All_LOLBin.txt -Path_To_Logfile .\lolevtx.evtx
+
 ```
 
 ### Contact details:
