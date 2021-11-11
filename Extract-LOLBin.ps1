@@ -242,5 +242,5 @@ if ($LogName -eq "SysmonFile")
 }
 if ($LogName -eq "SecurityFile")
 {
-  ReadFrom-SysmonLogs
+  ReadFrom-SecurityLogs
 }
